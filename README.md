@@ -1,4 +1,4 @@
-<!-- #h1
+#h1
 
 ##h2
 
@@ -73,7 +73,7 @@ ___
 
 
 
-[Link Here](http:localhost/3000 "Awesome tool tip") -->
+[Link Here](http:localhost/3000 "Awesome tool tip")
 
 
 - [ ] Models
