@@ -1,8 +1,13 @@
-#h1
+<!-- #h1
+
 ##h2
+
 ###h3
+
 ####h4
+
 #####h5
+
 ######h6
 
 h1 another way
@@ -68,9 +73,9 @@ ___
 
 
 
-[Link Here](http:localhost/3000 "Awesome tool tip")
+[Link Here](http:localhost/3000 "Awesome tool tip") -->
 
 
-[ ] Models
-[x] Views
-[ ] Controller
+- [ ] Models
+- [x] Views
+- [ ] Controller
